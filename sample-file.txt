@@ -1,0 +1,152 @@
+Kosmiczny Teleskop Jamesa Webba (ang. James Webb Space Telescope, JWST) – budowany w latach 2007–2021 teleskop kosmiczny do obserwacji w podczerwieni. Ma być dopełnieniem Kosmicznego Teleskopu Hubble’a. Projekt nadzorowany i w znacznej części finansowany przez agencje: amerykańską NASA, we współpracy z europejską ESA i kanadyjską CSA. Teleskop został nazwany na cześć Jamesa Webba, drugiego administratora NASA.
+
+Najważniejszymi celami misji są: obserwacje pierwszych gwiazd powstałych po Wielkim Wybuchu, badanie formowania się i ewolucji galaktyk, badanie powstawania gwiazd i systemów planetarnych.
+
+11 lipca 2022 roku NASA przedstawiła publiczne pierwsze zdjęcie wykonane po uruchomieniu Teleskopu Webba.
+
+
+Spis treści
+1	Budowa
+1.1	Platforma satelitarna
+1.2	Osłona słoneczna
+1.3	System optyczny
+1.4	Oprzyrządowanie naukowe
+2	Orbita
+3	Historia projektu
+3.1	Przebieg misji
+3.1.1	Etapy kalibracji luster
+3.1.2	Pierwsze zdjęcia
+4	Przypisy
+5	Linki zewnętrzne
+Budowa
+W strukturze teleskopu występują następujące komponenty[4]:
+
+Statek kosmiczny (Spacecraft Element, SE)
+Platforma satelitarna (Spacecraft Bus, SB)
+Osłona słoneczna
+Panele słoneczne
+Antena wysokiego zysku
+Urządzenia odpowiedzialne za kontrolę i orientację teleskopu
+System optyczny (Optical Telescope Element, OTE)
+Zwierciadło główne
+Zwierciadło pomocnicze
+Podsystem optyczny (AFT)
+Elementy strukturalne
+Podsystem zarządzania temperaturą
+Radiatory (ADIR)
+Moduł urządzeń naukowych (Integrated Science Instrument Module, ISIM)
+MIRI (Mid-Infrared Instrument)
+NIRSpec (Near-Infrared Spectrograph)
+NIRCam (Near-Infrared Camera)
+FGS/NIRISS (Fine Guidance Sensor and Near Infrared Imager and Slitless Spectrograph)
+Platforma satelitarna
+Platforma satelitarna (Spacecraft Bus, SB) jest najważniejszym komponentem pomocniczym teleskopu. Utrzymuje razem różne części teleskopu i w niej znajduje się wiele urządzeń strukturalnych, obliczeniowych, komunikacyjnych i napędowych[5] . Tu znajduje się również część urządzeń naukowych (Command and Data Handling system i system chłodzenia MIRI)[6].
+
+Platforma podtrzymuje 6,5-tonowy teleskop przy 350 kg masy własnej, jest wykonana głównie z kompozytu grafitowego[7].
+
+Ważnym elementem umieszczonym w SB są: centralny komputer, pamięć i system komunikacyjny. Procesor i oprogramowanie zapewniają dwustronną komunikację pomiędzy instrumentami naukowymi, rdzeniem pamięci oraz anteną, umożliwiając zbieranie, magazynowanie i przesyłanie danych na Ziemię i do teleskopu. Komputer ponadto kontroluje ustawienie teleskopu w przestrzeni, zbierając dane z żyroskopów i szukaczy gwiazd, oraz przesyła komendy do kół reakcyjnych i pędników[5].
+
+
+Rozłożona osłona słoneczna
+Osłona słoneczna
+Aby obserwacje odległych obiektów astronomicznych były niezakłócane przez promieniowanie samego teleskopu, będzie on pracował w bardzo niskiej temperaturze – poniżej 50 K (−223 °C). Urządzenie jest wyposażone w zaprojektowaną przez Northropa Grummana osłonę blokującą światło i ciepło dochodzące ze Słońca, która po rozłożeniu ma rozmiar 21,197 m × 14,162 m[8][9]. Składa się z pięciu warstw – każda kolejna jest chłodniejsza, a próżnia między nimi zapewni izolację[10]. Największa z warstw (oznaczona cyfrą 1) jest zwrócona ku Słońcu, a najmniejsza (5) w stronę zwierciadła. Warstwy są tak ułożone, że Słońce oświetla prawie wyłącznie pierwszą i niewielką część drugiej, natomiast zwierciadło „widzi” jedynie warstwę 5 i czasem niewielki fragment 4. Brzegi warstw są dalej od siebie niż ich centra, co ułatwia wypromieniowywanie ciepła[11].
+
+Pierwsza warstwa zatrzymuje 90% energii[12].
+
+
+Pięć warstw osłony
+Pięciowarstwowa osłona jest wykonana z kaptonu powleczonego obustronnie glinem, by poprawić zdolność odbijania światła. Ponadto, dwie największe membrany są dodatkowo powleczone po stronie zwróconej ku Słońcu krzemem domieszkowanym glinem, co nadaje im purpurowy odcień[11][13]. Domieszkowanie zapewnia przewodnictwo elektryczne, co zapobiega gromadzeniu się ładunków statycznych na membranach[14]. Warstwy mają następującą grubość:
+
+kapton - 0,05 mm (osłona 1) / 0,025 (osłony 2-5)
+glin - 100 nm (wszystkie osłony, obustronnie)
+krzem - 50 nm (osłony 1-2).
+System optyczny
+
+Zwierciadło główne JWST złożone w CLK im. Roberta H. Goddarda (28 października 2016)
+
+Odbicie głównego zwierciadła w drugim.
+
+Porównanie wielkości głównych zwierciadeł teleskopu Hubble’a i teleskopu Webba
+System optyczny teleskopu składa się z 4 zwierciadeł, elementów konstrukcyjnych i podsystemów wspomagających[15]. Z optycznego punktu widzenia jest trójzwierciadlanym anastygmatem Korscha[16]. Pierwsze zwierciadło jest wklęsłe, a drugie wypukłe. Trzecie eliminuje astygmatyzm i spłaszcza płaszczyznę ogniskową[17]. Czwarte, płaskie zwierciadło (fine-steering mirror) zapewnia precyzję celowania i stabilizację obrazu[16]. Taki układ zwierciadeł został wybrany ze względu na możliwość wyeliminowania aberracji sferycznej, komatycznej, astygmatyzmu i krzywizny pola[18].
+
+Główne zwierciadło jest zbudowane z 18 sześciokątnych elementów ułożonych w formie plastra miodu. Pojedynczy element mierzy 1,32 m od krawędzi do krawędzi. Razem formują sześciokąt o rozpiętości 6,5 m i powierzchni zbierającej światło równej 25 m² (co odpowiada powierzchni kolistego zwierciadła o ok. sześciometrowej średnicy)[16]. Zanim teleskop przystąpi do pracy, główne zwierciadło zostanie rozłożone, a jego pojedyncze elementy dopasowane do siebie, by działały jak jedno wielkie zwierciadło. W trakcie podróży do punktu L2, zostanie wykorzystana NIRCam i technika odzyskiwania fazy (phase retrieval technique), aby błąd powierzchni falowej był mniejszy niż 150 nm[19]. W tym celu każdy element zwierciadła głównego ma 6 siłowników o 10 nm skoku[19]. Siódmy siłownik znajduje się w centrum każdego elementu i pozwala na zmianę jego krzywizny[16].
+
+Zwierciadła są wykonane z berylu i pokryte złotem oraz krzemionką. Beryl zapewnia lekkość całej konstrukcji – zwierciadło główne waży 705 kg (dla porównania, zwierciadło Hubble’a o średnicy 2,4 m i 4,5 m² powierzchni zbierającej waży 828 kg)[19]. Pojedynczy element berylowy waży 20 kg, a z oprzyrządowaniem – ok. 40. Z tylnej części elementów usunięto znaczną część metalu, tworząc strukturę plastra miodu, by zagwarantować lekkość, wytrzymałość i stabilność konstrukcji.
+
+Dodatkową zaletą berylu jest jego wyjątkowo niski współczynnik rozszerzalności w temperaturach rzędu 30-80 K.
+
+Wypolerowane elementy zostały pokryte 100 nm warstwą czystego złota techniką osadzania z fazy gazowej. Warstwa ta umożliwia pracę teleskopu w zakresie podczerwieni. Na złotą warstwę odbijającą naniesiono warstwę ochronną z amorficznej krzemionki, zabezpieczającą zwierciadło przed urazami mechanicznymi[17].
+
+Wypukłe zwierciadło pomocnicze jest okrągłe o średnicy 74 cm, podtrzymywane przez trzy podpory[15].
+
+Zwierciadła podtrzymuje struktura wykonana z kompozytu grafitowego[16]. Ten specjalnie zaprojektowany materiał zmienia swoje rozmiary o nie więcej niż kilka nm w zakresie 40-50 K[19].
+
+Ważną częścią systemu optycznego jest układ chłodzący (ADIR, Aft Deployable Infrared Radiator). Dwa radiatory są położone za zwierciadłem głównym. Wykonano je z wysokiej czystości aluminium i pokryto specjalnym materiałem ułatwiającym rozpraszanie ciepła (BIRB, Ball InfraRed Black)[20]
+
+W grudniu 2011 lustra przeszły pomyślnie testy kriogeniczne, co według pracowników NASA było największym wyzwaniem technicznym[21].
+
+W Goddard Space Flight Center w Greenbelt w stanie Maryland zespół inżynierów umieścił na stelażu sześciokątny segment zwierciadła o średnicy 1,3 m i masie około 40 kg. Proces instalacji poszczególnych elementów zakończył się na początku 2016 roku. Lustra powstały w Ball Aerospace & Technologies w Boulder, Kolorado. Instalacją zajmował się Harris Corporation z Rochester w stanie Nowy Jork[22].
+
+Oprzyrządowanie naukowe
+Moduł urządzeń naukowych (Integrated Science Instrument Module, ISIM) to struktura, która zapewnia zasilanie, zasoby obliczeniowe, chłodzenie, a także stabilność strukturalną teleskopu Webba. Wykonany jest z kompozytu grafitowo-epoksydowego i przymocowany do spodniej części struktury teleskopu. W skład oprzyrządowania wchodzą 4 instrumenty naukowe[6]:
+
+NIRCam (Near InfraRed Camera kamera bliskiej podczerwieni) - przyrząd ten ma podwójne zadanie: obserwację nieba w zakresie podczerwieni i kontrolę poprawności ustawienia elementów głównego zwierciadła[23]. Ma dwa kompletne systemy optyczne, które mogą działać jednocześnie i niezależnie. Układ optyczny typu refraktor jest złożony z trzech soczewek wykonanych z LiF, BaF2 i ZnSe. Skolimowane światło pada na dziesięcioelementowy układ detektorów rtęciowo-kadmowo-tellurowych (HgCdTe) o rozdzielczości 2048 x 2048 pikseli każdy. Pole widzenia każdego z systemów to 2,2 x 2,2 minuty kątowej przy rozdzielczości kątowej 0,07 sekundy kątowej/2 mikrony[24]. Pola te przylegają do siebie, tworząc obraz o rozmiarach 2,2 x 4,4 minuty kątowej. Obserwowany zakres długości fali jest rozdzielony na pasmo krótkie (0,6-2,3 μm) i pasmo długie (2,4-5 μm). NIRCam działa w temperaturze 37 K (-236 °C). Jest wyposażony w koronograf, co pozwala mu obserwować obiekty o magnitudo +29 (jak planety pozasłoneczne i dyski wokół gwiazd) przy ekspozycji trwającej 10 000 s (ok. 2,8 godziny) oraz przeprowadzać spektroskopię[25][26].
+NIRSpec (Near InfraRed Spectrograph spektrograf bliskiej podczerwieni) - wyposażony w dwa rtęciowo-kadmowo-tellurowe sensory o rozdzielczości 4 megapikseli każdy, NIRSpec jest wielozadaniowym spektrografem zdolnym dokonać jednoczesnego pomiaru spektrum nawet 100 obiektów. Pomiar może zostać dokonany w niskiej, średniej lub wysokiej rozdzielczości i obejmuje pole widzenia o rozmiarach 3*3 minuty kątowej. Działa w temperaturze -235 °C i jest pasywnie chłodzony[27][28].
+MIRI (Mid-InfraRed Instrument) - kamera i spektrograf działający w zakresie średniej do długiej podczerwieni (5-28 μm). Pole widzenia instrumentów różni się: kamera może obserwować wycinki nieba o rozmiarach 74 x 113 sekund kątowych przy rozdzielczości 0,11 sekundy kątowej/piksel, a spektrograf 3,5 x 3,5 sekundy kątowej. Detektory (jeden dla kamery i dwa dla spektrografu) mają rozdzielczość 1024 x 1024 piksele (każdy) i są wykonane z krzemu domieszkowanego arsenem. Instrument jest również wyposażony w koronograf (co umożliwi np. detekcję planet) oraz dwustopniowy aktywny system chłodzący, ponieważ wymaga do pracy temperatury 7 K[29][30].
+FGS/NIRISS (Fine Guidance Sensor and Near Infrared Imager and Slitless Spectrograph) - ten instrument jest złożony z dwóch elementów połączonych fizycznie, ale oddzielnych optycznie. FGS wspiera teleskop w utrzymywaniu pozycji w przestrzeni i działa na zasadzie odnajdywania wybranych gwiazd przewodnich. NIRISS wykonuje spektrografię w zakresie 0,7-5,0 μm w polu widzenia o rozmiarach 2,2 x 2,2 minuty kątowej. Rtęciowo-kadmowo-tellurowy detektor ma rozdzielczość 2048 x 2048 pikseli. Instrument działa w 4 różnych trybach obserwacji[31][32].
+Orbita
+Teleskop jest umieszczony na wokółsłonecznej orbicie, w pobliżu punktu libracyjnego L2 układu Słońce-Ziemia, odległego około 1,5 mln km od Ziemi, zapewniającego niemal stałe położenie urządzenia względem środka Ziemi, zawsze niemal naprzeciw Słońca[33]. By unikać cienia Ziemi i Księżyca zakłócającego działanie baterii słonecznych teleskop nie może być umieszczony dokładnie w punkcie L2, ale obiega go w ciągu około pół roku, w odległości zmieniającej się od 250 000 do 832 000 km od niego[2]. W trakcie misji orbita będzie korygowana silnikami rakietowymi.
+
+trajektoria teleskopu - widok ze Słońca
+widok ze Słońca
+trajektoria teleskopu - widok z równika niebieskiego
+widok z równika niebieskiego
+trajektoria teleskopu - widok z bieguna niebieskiego
+widok z bieguna niebieskiego
+trajektorie teleskopu
+Na stronie teleskopu można śledzić jego położenie w Układzie Słonecznym w czasie rzeczywistym[34].
+
+Historia projektu
+Pierwotnie zakładano, że koszt projektu wyniesie 1,6 mld USD, a wystrzelenie JWST w kosmos miało nastąpić w 2011. Ciągłe opóźnienia i rosnące z roku na rok koszty sprawiły, że w 2010 powołano niezależny zespół ekspertów, który oszacował, że projekt pochłonie 6,5 mld USD, a wyniesienie na orbitę nastąpi nie wcześniej niż w 2015. Opóźnienia wyjaśniono złym zarządzaniem projektem i jego budżetem, pochwalono natomiast dokonania strony technicznej[35]. W lipcu 2011 poinformowano, że komitet Izby Reprezentantów przyznający fundusze zamierza skasować projekt JWST, obcinając budżet NASA na rok 2012 o 1,9 mld USD[36]. Rewizja programu ogłoszona w sierpniu 2011 zakładała, że całkowity koszt JWST, wliczając w to 5 lat działania teleskopu na orbicie, wyniesie 8,7 mld USD przy wystrzeleniu w kosmos zaplanowanym na rok 2018[37] za pomocą rakiety Ariane 5 z kosmodromu w Gujanie Francuskiej[38]. W listopadzie 2011 Kongres odrzucił plan skasowania projektu i zapewnił dodatkowe środki na jego kontynuowanie.
+
+Pierwszy segment zwierciadła został zamontowany w listopadzie 2015, a ostatni założono 3 lutego 2016 roku[38].
+
+We wrześniu 2017 roku NASA ogłosiła dalsze przesunięcie planowanej daty startu na marzec – czerwiec 2019 roku[39]. W czerwcu 2018 podano kolejne przesunięcie startu na marzec 2021[40].
+
+28 sierpnia 2019 w pomieszczeniach koncernu Northrop Grumman w Redondo Beach (Kalifornia) połączono mechanicznie część optyczną teleskopu z platformą satelitarną[41][42]. Przed końcem 2019 roku wykonano test rozkładania osłony termicznej, na początku marca 2020 – test rozłożenia lustra[43]. W maju 2020 po raz pierwszy złożono teleskop w konfiguracji startowej, jaką miał po załadowaniu na rakietę Ariane 5[44][45].
+
+W lipcu 2020 podano przesunięcie daty startu na 31 października 2021[46]. We wrześniu 2021 podano datę startu 18 grudnia 2021[47].
+
+12 października 2021 teleskop dotarł na miejsce startu, 11 grudnia został zainstalowany na rakiecie nośnej[48]. Start nastąpił 25 grudnia 2021[49].
+
+Przebieg misji
+
+Etapy rozkładania teleskopu
+Start odbył się o 7:20 a.m. EST (12:20 UTC) 25 grudnia 2021. Wszystkie stopnie rakiety i osłona teleskopu zostały poprawnie odrzucone. O 7:44 a.m. ETC (12:44 UTC), w dwudziestej piątej minucie T+24'50" zakończył pracę najwyższy człon rakiety. 77 sekund później (T+25'07") kompletnie złożony teleskop oddzielił się od ostatniego członu rakiety, rozpoczynając podróż do punktu libracyjnego L2[50]. 33 minuty po starcie zostały rozłożone panele słoneczne.
+T+12,5 h – dokonanie pierwszej i najważniejszej korekcji kursu teleskopu[51].
+T+1 d (26 grudnia) – rozłożenie i przetestowanie anteny (GAA, Gimbaled Antenna Assembly), która będzie przekazywała zebrane dane dwa razy na dzień po 28,6 GB. W tym samym dniu zostały uruchomione czujniki temperatury[52].
+T+2 d (27 grudnia) – druga korekta kursu. Trajektoria rakiety była na tyle poprawna, że wymagała tylko nieznacznej korekty, co pozwoliło zaoszczędzić paliwo[53].
+T+3 d (28 grudnia) – rozłożenie obudowy, co rozpoczęło proces rozkładania osłony słonecznej.
+T+4 d (29 grudnia) – wysunięcie o 1,22 m wieżyczki, na której zamontowano zwierciadło. Pozwoli to na lepszą izolację instrumentów naukowych i zwierciadła od osłony przeciwsłonecznej[54]
+T+5 d (30 grudnia) – rozłożenie tylnej klapy pędu (AMF, Aft Momentum Flap). Jej zadaniem jest zrównoważenie nacisku ciśnienia promieniowania słonecznego wywieranego na osłonę, przeciwdziałanie wprawianiu w obrót przez ciśnienie promieniowania, a przez to zmniejszenie zużycia paliwa[55]. Zwolniono i zwinięto okrycie osłon przeciwsłonecznych[56]
+T+6 d (31 grudnia) – rozłożenie wysięgników, na których będą rozpięte osłony[57]
+T+9 d (3 stycznia 2022) – rozciągnięcie pierwszej, drugiej i trzeciej warstwy osłony (licząc od Słońca)[58][59]
+T+10 d (4 stycznia) – rozciągnięcie czwartej i piątej warstwy osłony, czym zakończył się proces rozkładania osłony słonecznej[60][61].
+T+11 d (5 stycznia) – rozłożenie trójnogu podtrzymującego zwierciadło pomocnicze[62]
+T+12 d (6 stycznia) – rozłożenie radiatora chłodzącego MIRI[63]
+T+13-14 d (7-8 stycznia) – otwarcie i zablokowanie skrzydeł zwierciadła głównego[64][65][66].
+T+18-28 d (12-22 stycznia) – odblokowanie i wysunięcie luster zwierciadła głównego z pozycji startowej do roboczej[67]. To pierwszy etap zaplanowanej na 3 miesiące procedury ustawiania luster[68]. Do kalibracji zostanie wykorzystana gwiazda HD 84406 w gwiazdozbiorze Wielkiej Niedźwiedzicy[69][70]
+T+30 d (24 stycznia) – ostatnia, trzecia korekcja kursu, o godzinie 20:00 CET teleskop znalazł się na docelowej orbicie[71][72]
+T+3 m (11 marca) – zakończył się proces kalibracji teleskopu (faza 5) i zwierciadła działają jak jedno lustro. Na Ziemię został przesłany obraz gwiazdy 2MASS J17554042+6551277 o jakości wyższej niż zakładana przez modele matematyczne[73]
+T+4 m (13 kwietnia) – MIRI osiągnął temperaturę roboczą 7 K[74][75]
+T+4 m (28 kwietnia) – zakończył się etap ustawiania zwierciadeł teleskopu, do wszystkich instrumentów dociera poprawna wiązka światła[76]
+Etapy kalibracji luster
+Cały proces kalibracji, zaplanowany na ok. 3 miesiące, składa się z siedmiu etapów. Jego celem jest takie ustawienie 18 elementów głównego zwierciadła, by działały jak jeden wielki teleskop, a nie 18 małych[50][77][78].
+
+Identyfikacja pojedynczych obrazów - poruszono po kolei 18 segmentów lustra, aby ustalić, który segment tworzy obraz danego segmentu. Po dopasowaniu segmentów lustra do odpowiednich obrazów można przechylić lustra, aby zbliżyć wszystkie obrazy do wspólnego punktu w celu dalszej analizy[79].
+Ustawienie segmentów - w tym etapie skorygowano większość dużych błędów ustawienia segmentów. Lekko przesuwając zwierciadło wtórne, rozogniskowano obrazy i określono dokładnie błąd ustawienia przy pomocy metody analizy matematycznej, zwanej odzyskiwaniem fazy (phase retrieval)[80].
+Nakładanie obrazów - poszczególne obrazy segmentów są przesuwane tak, aby znalazły się dokładnie w centrum pola, co pozwala uzyskać jeden obraz. Układanie odbywa się sekwencyjnie w trzech grupach (segmenty A, B i C).
+Fazowanie zgrubne - przeprowadzane trzykrotnie mierzy i koryguje pionowe przesunięcie segmentów zwierciadła, wykorzystując technologię znaną jako Dispersed Fringe Sensing, W tym etapie NIRCam rejestruje widmo światła z 20 oddzielnych par segmentów zwierciadeł.
+Fazowanie dokładne - również przeprowadzane trzykrotnie, bezpośrednio po każdej rundzie fazowania zgrubnego, a następnie rutynowo przez cały okres eksploatacji teleskopu. Fazowanie dokładne koryguje błędy zestrojenia, stosując tę samą metodę rozogniskowania, ale przy użyciu specjalnych elementów optycznych wewnątrz instrumentu naukowego.
+Strojenie teleskopu w polu widzenia instrumentu - w tej fazie przeprowadza się pomiary w wielu miejscach dla każdego z instrumentów naukowych. Algorytm oblicza ostateczne poprawki potrzebne do uzyskania dobrego ustawienia teleskopu we wszystkich instrumentach naukowych.
+Iteracyjne wyrównywanie w celu uzyskania ostatecznej korekcji - kluczową kwestią pozostaje usunięcie wszelkich małych, szczątkowych błędów pozycjonowania segmentów zwierciadła głównego. Po zweryfikowaniu jakości obrazu we wszystkich instrumentach proces wykrywania i kontroli czoła fali zostanie zakończony.
